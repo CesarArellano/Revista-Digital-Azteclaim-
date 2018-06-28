@@ -1,0 +1,63 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+  .main{
+  height: 80%;
+  width: 100%;
+  background-image: url(images/boceto.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Amaranth', sans-serif;
+        
+}
+ h2{
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    }
+h3{
+  text-align: center;
+}
+
+    h4{
+    font-family: 'Amaranth', sans-serif;
+      text-align: center;
+    }
+    h5{
+margin-top: 10%;
+}
+     h6{
+    
+    font-family: 'Amaranth', sans-serif;
+    }
+    
+    *{
+         font-family: 'Didact Gothic', sans-serif;
+    }
+
+    p{
+  text-align: justify;
+}
+.just{
+  text-align: justify;
+}
+.margen{
+  margin-top: 2%;
+}
+
+.color{
+  background-color: #006064;
+}
+.quees{
+  height: 40%;
+  width: 100%;
+}
+.ambiente{
+  background-image: url(images/medioambiente.png);
+}
+.tecnologia{
+  background-image: url(images/tecnologia.png);
+}
